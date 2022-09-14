@@ -506,6 +506,10 @@ ${mundur}
  • ${prefix}metalb2
  • ${prefix}metalg
  • ${prefix}metalg${petik}
+ 
+ © Dibuat Oleh : ${ownerName}
+ © Date : ${tanggal(new Date())}
+ ® Name : ${pushname !== undefined ? pushname : '-'}
 `
 }
 
